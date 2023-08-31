@@ -1,11 +1,14 @@
 .main-container{
-    /*display: grid;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 10px;
-    */
+    row-gap: 10px;
+    
+    /*
     display: flex;
     flex: 1;
     column-gap: 10px;
+    */
 }
 
 .video-box{
